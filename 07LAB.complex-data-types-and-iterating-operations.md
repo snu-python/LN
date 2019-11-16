@@ -1,13 +1,14 @@
-***
 실습 : 복합자료형과 순회형 연산
 ===
 
 Lab: Complex Data Types and Iterating Operations
 
 ***
+
 **박 진 수** 교수    
 Intelligent Data Semantics Lab  
 Seoul National University
+
 ***
 
 다음 표는 성적 데이터를 이름순으로 정렬해서 보여주고 있다.
